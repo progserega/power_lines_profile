@@ -1,0 +1,24 @@
+<Files "db_config.py">
+  Order Deny,Allow
+  Deny from all
+</Files>
+<Files "db_config.pyc">
+  Order Deny,Allow
+  Deny from all
+</Files>
+<Files "db_config_dev.py">
+  Order Deny,Allow
+  Deny from all
+</Files>
+<Files "db_config_dev.pyc">
+  Order Deny,Allow
+  Deny from all
+</Files>
+<Files "db_config.py.bak">
+  Order Deny,Allow
+  Deny from all
+</Files>
+<Files "db_config_dev.py.bak">
+  Order Deny,Allow
+  Deny from all
+</Files>
